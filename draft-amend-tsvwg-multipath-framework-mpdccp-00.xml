@@ -82,7 +82,8 @@
    increasing share of UDP in today's traffic mix (<eref target="https://arxiv.org/abs/1801.05168"/>) unconsidered.  In this document, a network
    architecture leveraging the MP-DCCP network protocol is proposed,
    which enables above scenarios and address the formulated issues
-   either independent or complementary to MP-TCP.</t>
+   either independent or complementary to MP-TCP.
+   nice</t>
 
 	</abstract>
 	</front>
